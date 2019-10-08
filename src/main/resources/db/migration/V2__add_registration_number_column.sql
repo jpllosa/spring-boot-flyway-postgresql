@@ -1,0 +1,1 @@
+ALTER TABLE public.cars ADD registration_number VARCHAR(255);
